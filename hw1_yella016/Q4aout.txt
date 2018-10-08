@@ -1,0 +1,14 @@
+Num of correct pred:  68, Error rate:  23.5955% and sigma:  -5
+Num of correct pred:  71, Error rate:  20.2247% and sigma:  -4
+Num of correct pred:  69, Error rate:  22.4719% and sigma:  -3
+Num of correct pred:  70, Error rate:  21.3483% and sigma:  -2
+Num of correct pred:  68, Error rate:  23.5955% and sigma:  -1
+Num of correct pred:  64, Error rate:  28.0899% and sigma:  0
+Num of correct pred:  64, Error rate:  28.0899% and sigma:  1
+Num of correct pred:  60, Error rate:  32.5843% and sigma:  2
+Num of correct pred:  60, Error rate:  32.5843% and sigma:  3
+Num of correct pred:  60, Error rate:  32.5843% and sigma:  4
+Num of correct pred:  61, Error rate:  31.4607% and sigma:  5
+Best performance on validation set for sigma =  -4
+with error rate =  20.2247%
+Error Rate using the best prior: 14.6067%
