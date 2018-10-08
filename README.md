@@ -1,1 +1,1 @@
-# csci5521 Into to Machine Learning
+# csci5521 Intro to Machine Learning
